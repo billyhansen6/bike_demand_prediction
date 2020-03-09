@@ -1,4 +1,4 @@
-# bike_demand_prediction
+# bike_demand_prediction - 6th Percentile Kaggle Submission
 
 Problem Description
 
